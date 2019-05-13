@@ -1,0 +1,11 @@
+text.txt
+python.tar.gz
+pyhton.odt
+prime.py
+hello.py
+file.txt
+factorial.py
+fabonacci.py
+3.py
+1.py
+12.py
